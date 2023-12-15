@@ -1,4 +1,5 @@
-![MasterHead](header.png)
+<gif align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpldWJyMGlwYjlhMmk5eWdqOWI3M3A5dmF6dXhvaHNkcGJwN3huOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqG2gKQdrGs42MaB5u/giphy.gif">
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3177s7r6xsxcxq4hdegyb263t654&count=10&width=600)
 
